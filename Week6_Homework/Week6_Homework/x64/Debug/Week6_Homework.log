@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\이원빈\Desktop\공부자료\전자응용설계homework\Week6_Homework\Week6_Homework\Hangman.h(46,1): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\이원빈\Desktop\공부자료\전자응용설계homework\Week6_Homework\Week6_Homework\Hangman.h(58,1): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Week6_Homework.vcxproj -> C:\Users\이원빈\Desktop\공부자료\전자응용설계homework\Week6_Homework\x64\Debug\Week6_Homework.exe
